@@ -12,7 +12,8 @@ function App() {
       <BackgroundVideo />
       <Welcome_Banner />
       <Get_Started />
-      <AboutUs />
+
+
     </>
 
   );
