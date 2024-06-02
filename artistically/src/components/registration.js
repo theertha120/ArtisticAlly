@@ -218,7 +218,7 @@ export default function Registration() {
     try {
       // Send form data to backend server
       const response = await axios.post(
-        "http://localhost:3306/register",
+        "http://localhost:3000/register",
         formData
       );
 
